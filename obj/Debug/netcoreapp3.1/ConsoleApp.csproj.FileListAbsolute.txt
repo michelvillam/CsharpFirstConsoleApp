@@ -1,0 +1,13 @@
+/home/miguelangel/Descargas/Csharp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp
+/home/miguelangel/Descargas/Csharp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/home/miguelangel/Descargas/Csharp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/home/miguelangel/Descargas/Csharp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/home/miguelangel/Descargas/Csharp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/miguelangel/Descargas/Csharp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/home/miguelangel/Descargas/Csharp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
+/home/miguelangel/Descargas/Csharp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/home/miguelangel/Descargas/Csharp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/home/miguelangel/Descargas/Csharp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/miguelangel/Descargas/Csharp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/miguelangel/Descargas/Csharp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/home/miguelangel/Descargas/Csharp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
